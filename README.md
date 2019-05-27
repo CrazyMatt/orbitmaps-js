@@ -2,7 +2,7 @@
 
 ![orbits.js preview image](preview.png "orbits.js preview image")
 
-A small library forked from [Orbits.js](https://github.com/rossengeorgiev/orbits-js) for mapping satellite orbits from TLE to the TomTom Maps API.
+A small library forked from [Orbits.js](https://github.com/rossengeorgiev/orbits-js) for mapping satellite orbits from TLE with GeoJSON.
 
 [Live preview](http://rossengeorgiev.github.io/orbits-js/preview.html)
 
